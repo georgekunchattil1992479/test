@@ -2042,5 +2042,3 @@ $(window).smartresize(function(){
     initDoughnutProgressBar2();
 });
 
-
-
